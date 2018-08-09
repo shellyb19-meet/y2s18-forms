@@ -1,3 +1,9 @@
 body {
-    background: #fcfcfc;
+    background: blue;
+}
+h1{
+    color: lightgray;
+}
+a{
+    color: plum
 }
